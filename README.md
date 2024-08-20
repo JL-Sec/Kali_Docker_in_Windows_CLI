@@ -1,6 +1,6 @@
 # Docker Container Setup Guide
 
-[Demo Video CMD](demo1.mp4)
+[Demo Video CMD](demo-cmd-alias.mp4)
 
 This guide explains how to set up Docker container management scripts in both PowerShell and `cmd`. These scripts allow you to easily start or attach to your Kali Docker container using simple commands like `kali`.
 
