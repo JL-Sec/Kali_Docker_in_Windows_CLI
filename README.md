@@ -2,6 +2,11 @@
 
 These scripts allow you to easily start or attach to your Kali Docker container from the Windows CLI using simple commands like `kali`.
 
+## Prerequisites
+
+- **Docker Desktop** installed and configured with WSL 2 or Hyper-V.
+- **Docker image** (`kalitools:v1`) or equivalent available on your system.
+
 # PowerShell Setup:
 
 - Open your PowerShell profile (notepad $PROFILE).Add the kali function script to manage Docker containers.
