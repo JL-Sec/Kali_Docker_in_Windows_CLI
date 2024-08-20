@@ -1,6 +1,6 @@
-# Kali in Windows CMD and PowerShell - Setup Guide
+# Kali in Windows CMD and PowerShell
 
-This guide explains how to set up Docker container management scripts in both PowerShell and `cmd`. These scripts allow you to easily start or attach to your Kali Docker container using simple commands like `kali`.
+These scripts allow you to easily start or attach to your Kali Docker container from the Windows CLI using simple commands like `kali`.
 
 # PowerShell Setup:
 
