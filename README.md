@@ -8,7 +8,7 @@ This guide explains how to set up Docker container management scripts in both Po
 - Save and reload the profile (. $PROFILE).
 - Run kali in PowerShell to start or attach to the container.
 
-# cmd Setup:
+# CMD Setup:
 
 - Create kali.bat and docker_aliases.bat scripts.
 - Use doskey in docker_aliases.bat to set up a kali alias.
